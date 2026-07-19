@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SteamTraderKeys</string>
+
+    <string name="settings">Настройки</string>
+
+    <string name="market">Рынок</string>
+    <string name="steam_trader">SteamTrader</string>
+    <string name="steam">Steam</string>
+    <string name="fee">Комиссия</string>
+    <string name="difference">Разница</string>
+    <string name="deal">Сделка</string>
+    <string name="count">Кол-во</string>
+    <string name="pay_price">Заплачу</string>
+    <string name="receive_price">Получу</string>
+    <string name="result">Результат</string>
+    <string name="purchase">Покупка</string>
+    <string name="deposit_amount">Сумма пополнения</string>
+    <string name="purchased">Куплено</string>
+    <string name="status">Статус</string>
+    <string name="ready">Готов</string>
+    <string name="active">Активен</string>
+    <string name="inactive">Неактивен</string>
+    <string name="logs">Логи</string>
+    <string name="log_time">[%1$s]</string>
+    <string name="update_data">Обновить данные</string>
+    <string name="start_buying">Начать покупку</string>
+    <string name="stop_buying">Завершить покупку</string>
+
+    <string name="price_format">%1$s ₽</string>
+    <string name="percent_format">%1$s%%</string>
+    <string name="progress_format">%1$s из %2$s</string>
+
+    <string name="steam_data_failed">Не удалось получить данные из Steam.</string>
+    <string name="steam_trader_data_failed">Не удалось получить данные из Steam Trader.</string>
+    <string name="api_key_empty">Укажите API Key</string>
+    <string name="need_to_stop_trading">Для выполнения действия завершите процесс прокупки</string>
+
+    <string name="log_buying_started">Началась покупка</string>
+    <string name="log_buying_stopped">Покупка остановлена</string>
+    <string name="log_key_purchased">Ключ куплен по цене %1$d ₽</string>
+    <string name="log_buying_error">Произошла ошибка: %1$s</string>
+    <string name="log_buying_finished">Покупка завершена</string>
+
+    <string name="buy_error_balance_not_enough">Недостаточно средств</string>
+    <string name="buy_error_data_passed_not_correct">Введены некорректные данные</string>
+    <string name="buy_error_unknown">Неизвестная ошибка</string>
+</resources>

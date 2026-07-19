@@ -1,0 +1,9 @@
+<resources>
+    <string name="save">Сохранить</string>
+    <string name="delete_api_key">Удалить API Key</string>
+    <string name="steam_trader_api_key">Steam Trader API Key</string>
+
+    <string name="api_key_saved">API Key сохранён</string>
+    <string name="api_key_incorrect">Введён неверный API Key</string>
+    <string name="api_key_deleted">API Key удалён</string>
+</resources>
