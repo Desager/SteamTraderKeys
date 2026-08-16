@@ -6,7 +6,6 @@ App for monitoring and comparing TF2 key prices on SteamTrader and Steam, with a
 
 - Kotlin
 - The Elm Architecture (TEA)
-- Clean Architecture
 - Kotlin Coroutines
 - Kotlin Flow
 - Retrofit
