@@ -17,7 +17,7 @@ import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
 
-class LogItemFingerprint : ItemFingerprint<ItemLogBinding, LogInfo> {
+internal class LogItemFingerprint : ItemFingerprint<ItemLogBinding, LogInfo> {
 
     override fun isRelativeItem(item: Item) = item is LogInfo
 
@@ -47,7 +47,7 @@ class LogItemFingerprint : ItemFingerprint<ItemLogBinding, LogInfo> {
     }
 }
 
-class LogItemViewHolder(
+internal class LogItemViewHolder(
     binding: ItemLogBinding,
 ) : BaseViewHolder<ItemLogBinding, LogInfo>(binding) {
 

@@ -1,6 +1,6 @@
 package com.desager.trader.ui.model
 
-sealed interface LogMessage {
+internal sealed interface LogMessage {
 
     data object BuyingStarted : LogMessage
 

@@ -3,7 +3,7 @@ package com.desager.trader.ui.model
 import com.desager.common.ui.adapter.Item
 import java.util.UUID
 
-data class LogInfo(
+internal data class LogInfo(
     val id: String = UUID.randomUUID().toString(),
     val timestamp: Long = System.currentTimeMillis(),
     val message: LogMessage,

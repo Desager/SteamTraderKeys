@@ -1,6 +1,6 @@
 package com.desager.trader.ui.model
 
-sealed interface BuyError {
+internal sealed interface BuyError {
 
     data object BalanceNotEnough : BuyError
 
