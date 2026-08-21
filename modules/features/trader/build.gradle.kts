@@ -50,6 +50,4 @@ dependencies {
     api(project(":modules:arch-android"))
 
     api(project(":modules:features:trader-data"))
-
-    api(project(":modules:features:settings"))
 }
